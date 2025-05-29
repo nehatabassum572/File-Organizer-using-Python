@@ -1,6 +1,6 @@
 .vscode/
 C/
 test_files/
-*.log  # Optional: Ignore log files if generated
+*.log  
 __pycache__/
 *.pyc
